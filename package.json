@@ -1,0 +1,20 @@
+{
+  "name": "hello-binary",
+  "private": true,
+  "description": "Simple C++ addon that includes a function returning 'Hello!'",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node-gyp configure build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ki3ie/node-hello-binary.git"
+  },
+  "author": "Ki3ie (https://github.com/Ki3ie)",
+  "license": "MIT",
+  "dependencies": {
+    "node-gyp": "^10.0.1"
+  }
+}

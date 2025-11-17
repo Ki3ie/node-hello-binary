@@ -15,6 +15,6 @@
   "author": "Ki3ie (https://github.com/Ki3ie)",
   "license": "MIT",
   "dependencies": {
-    "node-gyp": "^10.0.1"
+    "node-gyp": "^12.1.0"
   }
 }
